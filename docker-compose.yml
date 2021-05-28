@@ -41,7 +41,7 @@ services:
     environment:
     - PMA_ARBITRARY=1
     - PMA_HOSTS=db
-    - PMA_USER=clothshot
-    - PMA_PASSWORD=clothshotts
+    - PMA_USER=evershota
+    - PMA_PASSWORD=evernotes
     ports:
     - 8090:80
